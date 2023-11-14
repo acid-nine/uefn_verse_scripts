@@ -2,7 +2,7 @@ using { /Verse.org/Simulation/Tags }
 using { /Fortnite.com/Devices }
 using { /Verse.org/Simulation }
 
-# This script will listen to any Tagged button devices 
+# This script will listen to any Tagged button devices and then trigger an item granter
 
 # tags class for the buttons to get assigned to via details tab on the button device
 search_buttons := class(tag){}
